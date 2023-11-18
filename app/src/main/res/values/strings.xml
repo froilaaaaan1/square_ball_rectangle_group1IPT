@@ -1,0 +1,8 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="piece_of_cake">Piece of Cake</string>
+    <string name="triangle">Triangle</string>
+    <string name="ball">Ball</string>
+    <string name="image_to_show">Image to Show</string>
+    <string name="square">Square</string>
+    <string name="app_name" tools:ignore="Typos">SquareBallRectangle_Group_1_IPT</string>
+</resources>
